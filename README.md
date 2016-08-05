@@ -11,6 +11,12 @@ The side-menu is responsive and to use as AngularJS 1.x directive.
 
 [https://bitbucket.org/secanis/angular-simple-sidebar](https://bitbucket.org/secanis/angular-simple-sidebar)
 
+### NPM ###
+
+[![npm version](https://badge.fury.io/js/angular-simple-sidebar.svg)](https://badge.fury.io/js/angular-simple-sidebar)
+
+[https://www.npmjs.com/package/angular-simple-sidebar](https://www.npmjs.com/package/angular-simple-sidebar)
+
 ### Installation ###
 
 *final package:*
